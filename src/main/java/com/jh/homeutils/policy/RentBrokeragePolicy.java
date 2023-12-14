@@ -1,6 +1,7 @@
 package com.jh.homeutils.policy;
 
 /**
+ * @author jaehy
  * 임대차일 때 중개수수료 계산해주는 클래스
  */
 public class RentBrokeragePolicy implements BrokeragePolicy {
