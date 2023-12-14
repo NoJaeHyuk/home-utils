@@ -1,6 +1,7 @@
 package com.jh.homeutils.policy;
 
 /**
+ * @author jaehy
  * 매매일 때 중개수수료 계산해주는 클래스
  */
 public class PurchaseBrokeragePolicy implements BrokeragePolicy{
